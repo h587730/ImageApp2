@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+            android:id="@+id/miQuiz"
+            android:title="QUIZ"
+            app:showAsAction="always"
+            />
+    <item
+            android:id="@+id/miAdd"
+            android:icon="@drawable/add_person"
+            android:title="Add"
+            app:showAsAction="ifRoom" />
+
+</menu>
